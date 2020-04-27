@@ -1,0 +1,69 @@
+::-webkit-scrollbar {
+width: 10px;
+background-color: #E9E9E9;
+border-left: 1px solid #BBBBBB;
+}
+::-webkit-scrollbar-thumb {
+background-color: #8C43FF;
+}
+
+#baslik{
+	color: #8C43FF;
+	font-weight: 700;
+}
+
+#iletisimyazi{
+	font-family: Exo;
+	font-weight: 600;
+}
+
+#calismayazi{
+	font-family: Exo;
+	font-weight: 400;
+}
+#foot{
+	background-color: #8C43FF;
+}
+#arkaplan{
+	background-color: #8700C9;
+}
+
+#deneyimbaslik{
+	font-family: Exo;
+	font-weight: 300;
+}
+#deneyimyazi{
+	font-weight: 600;
+	font-family: Exo;
+	color: #8309BF;
+}
+#backimg{
+	margin-top: 2rem;
+	opacity: 0.45;
+	width: 50%;
+	height: auto;
+}
+#avatar{
+	max-width:18%; 
+	border-style: solid;
+	border-radius: 150px;
+	border-color: #f953c6;
+	border-width: 1.5px;
+}
+#meslekbaslik{
+	margin-top: 1.5rem;
+	font-family: Exo;
+}
+
+#meslekalt{
+	font-family: Exo;
+	font-weight: 100;
+}
+#ortaalt{
+	font-family: Exo;
+	font-weight: 100;
+}
+#ustbuton{
+	margin-left: 0.4rem;
+	background-color: #8C43FF;
+}

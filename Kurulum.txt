@@ -1,0 +1,11 @@
+1- application/config/config.php kýsmýndan $config['base_url'] = 'http://siteadresin.com/'; kýsmýný kendi site adresinize göre doldurun Not: Adres sonunda / iþareti olsun.
+
+2 - SQL klasöründe bulunan cv.sql'i kendi veritabanýnýzda içeri aktarýn.
+
+3 - application/config/database.php kýsmýný talimatlara göre doldurun. ( Yorum satýrýyla belirtildi. )
+
+4 - Site adresinizin sonuna /yonetim koyarak yetkili paneline ulaþabilirsiniz.
+
+5 - Yetkili Panel Bilgileri
+E-posta: admin@admin.com
+Þifre: 1234 
