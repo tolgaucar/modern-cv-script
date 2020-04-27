@@ -15,10 +15,10 @@ Bu kişisel websitesi scripti  PHP, JavaScript, Bulma.CSS kullanılarak kodlanm�
 
 
 ## Screenshot
-https://bit.ly/3eQaXjv
-https://bit.ly/2VDYaJa
-https://bit.ly/2VD6kBz
-https://bit.ly/35fIXRW
+- https://bit.ly/3eQaXjv
+- https://bit.ly/2VDYaJa
+- https://bit.ly/2VD6kBz
+- https://bit.ly/35fIXRW
 
 ## Kurulum
 
