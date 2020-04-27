@@ -1,7 +1,7 @@
 # CV Script
 # Kişisel Web Sitesi Scripti
 
-Bu kişisel websitesi scripti  PHP, JavaScript, Bulma.CSS kullanılarak kodlanmıştır. Yabancı bir UI designerinin blogundan özenilmiştir. Admin paneli, script tasarımları dahil her şey tarafımca yapılmıştır.
+Bu kişisel websitesi scripti  Codeigniter, JavaScript, Bulma.CSS kullanılarak kodlanmıştır. Yabancı bir UI designerinin blogundan özenilmiştir. Admin paneli, script tasarımları dahil her şey tarafımca yapılmıştır.
 
 - Responsive
 - Kolay Kurulum
