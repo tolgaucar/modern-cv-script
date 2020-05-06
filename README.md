@@ -15,7 +15,7 @@ Bu kişisel websitesi scripti  Codeigniter, JavaScript, Bulma.CSS kullanılarak 
 
 
 ## Screenshot
-- https://bit.ly/3eQaXjv
+- https://bit.ly/3dtqS5P
 - https://bit.ly/2VDYaJa
 - https://bit.ly/2VD6kBz
 - https://bit.ly/35fIXRW
