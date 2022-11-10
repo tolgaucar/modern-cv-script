@@ -37,9 +37,13 @@
 ## Installation
 
 1- Change the url for your own site in application/config/config.php (you should change the $config['base_url'] = 'http://siteadresin.com/'; part)
+
 2- Open the SQL folder and import the SQL to your database
+
 3- Implement your own database information to application/config/database.php
+
 4- Installation is done, if you go the website.com/yonetim you can access admin panel.
+
 5- Default administration info: admin@admin.com:1234 (email:pass)
 
 
