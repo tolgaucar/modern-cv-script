@@ -1,10 +1,11 @@
-# Modern CV Script
-# Kişisel Web Sitesi Scripti
+# [EN] Modern CV Script
+# [TR] Kişisel Web Sitesi Scripti
 
-Bu kişisel websitesi scripti  Codeigniter, JavaScript, Bulma.CSS kullanılarak kodlanmıştır. Yabancı bir UI designerinin blogundan özenilmiştir. Admin paneli, script tasarımları dahil her şey tarafımca yapılmıştır.
+[TR] Bu kişisel websitesi scripti  Codeigniter, JavaScript, Bulma.CSS kullanılarak kodlanmıştır. Yabancı bir UI designerinin blogundan özenilmiştir. Admin paneli, script tasarımları dahil her şey tarafımca yapılmıştır.
 
-This personal website script is coded using Codeigniter, JavaScript, Bulma.CSS. Taken from a foreign UI designer's blog. Everything, including the admin panel and script designs, was made by me.
+[EN] This personal website script is coded using Codeigniter, JavaScript, Bulma.CSS. Taken from a foreign UI designer's blog. Everything, including the admin panel and script designs, was made by me.
 
+## TR
 - Responsive
 - Kolay Kurulum
 - Yüksek kullanıcı deneyimi.
@@ -15,6 +16,7 @@ This personal website script is coded using Codeigniter, JavaScript, Bulma.CSS. 
 - Dinamik iletişim formu
 - Özgün yetkili paneli
 
+## EN
 - Responsive
 - Easy setup
 - High user experience.
