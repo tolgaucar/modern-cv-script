@@ -1,7 +1,9 @@
-# CV Script
+# Modern CV Script
 # Kişisel Web Sitesi Scripti
 
 Bu kişisel websitesi scripti  Codeigniter, JavaScript, Bulma.CSS kullanılarak kodlanmıştır. Yabancı bir UI designerinin blogundan özenilmiştir. Admin paneli, script tasarımları dahil her şey tarafımca yapılmıştır.
+
+This personal website script is coded using Codeigniter, JavaScript, Bulma.CSS. Taken from a foreign UI designer's blog. Everything, including the admin panel and script designs, was made by me.
 
 - Responsive
 - Kolay Kurulum
@@ -13,8 +15,18 @@ Bu kişisel websitesi scripti  Codeigniter, JavaScript, Bulma.CSS kullanılarak 
 - Dinamik iletişim formu
 - Özgün yetkili paneli
 
+- Responsive
+- Easy setup
+- High user experience.
+- Meta tag support
+- Dynamic and customizable.
+- My talents section
+- My projects/works section
+- Dynamic contact form
+- Unique admin panel
 
-## Screenshot
+
+## Screenshots
 - https://bit.ly/3dtqS5P
 - https://bit.ly/2VDYaJa
 - https://bit.ly/2VD6kBz
@@ -34,8 +46,17 @@ Bu kişisel websitesi scripti  Codeigniter, JavaScript, Bulma.CSS kullanılarak 
 E-posta: admin@admin.com
 Şifre: 1234 
 
+## Installation
 
-## Katkıda Bulunma
+1- Change the url for your own site in application/config/config.php (you should change the $config['base_url'] = 'http://siteadresin.com/'; part)
+2- Open the SQL folder and import the SQL to your database
+3- Implement your own database information to application/config/database.php
+4- Installation is done, if you go the website.com/yonetim you can access admin panel.
+5- Default administration info: admin@admin.com:1234 (email:pass)
+
+
+
+## Katkıda Bulunma / Contributing
 Küçük isteklerinizi gerçekleştirmeye çalışacağım. Büyük istekler için issue kısmında tartışma açabilirsiniz.
 
 ## License
